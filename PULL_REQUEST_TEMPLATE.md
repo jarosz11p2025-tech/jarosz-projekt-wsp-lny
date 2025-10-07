@@ -8,5 +8,5 @@ Dlaczego te zmiany są potrzebne?
 
 ## Zespół
 
-- Autor: [Twoje imię]
+- Autor: Oskar Jarosz, 
 - Recenzent: [Imię recenzenta]
