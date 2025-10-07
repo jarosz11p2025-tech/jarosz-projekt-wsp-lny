@@ -8,5 +8,5 @@ Dlaczego te zmiany są potrzebne?
 
 ## Zespół
 
-- Autor: Oskar Jarosz, 
+- Autor: Oskar Jarosz, Veniamin Majbrodskyi.
 - Recenzent: [Imię recenzenta]
